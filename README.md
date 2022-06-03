@@ -1,34 +1,46 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![ Logotipo de Luuna ](https://luuna-bucket.imgix.net/img/header-logo.svg?auto=compress,format)
 
-## Getting Started
+# Prueba técnica de interfaz
 
-First, run the development server:
+¡Hola! Gracias por su interés en aplicar a ZeBrands.
+Como parte del proceso de contratación, le pedimos que complete esta tarea como una forma de mostrar sus habilidades y conocimientos.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+# Descripción:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Desarrolle una aplicación que use la API de Github para buscar usuarios y repositorios y muestre los resultados de una manera agradable.
+La aplicación debe tener al menos 2 rutas: _búsqueda de usuarios_ y _búsqueda de repositorios_ con la navegación correspondiente.
+Estas rutas deben tener una barra de búsqueda y los resultados de la búsqueda deben aparecer en la misma página.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Lo que esperamos
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Vamos a evaluar todas sus opciones desde el diseño hasta la implementación, así que invierta suficiente tiempo en cada paso, no solo en la codificación. La prueba puede sentirse ambigua en algunos puntos porque queremos que se sienta obligado a tomar decisiones. En la vida real, a menudo encontrará que este es el caso.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Vamos a evaluar estas dimensiones:
 
-## Learn More
+- Calidad del código: Esperamos código limpio y buenas prácticas
+- Usabilidad: esperamos que construya una aplicación usable con una primera experiencia móvil
+- Tecnología: Uso de paradigmas, frameworks y librerías. Recuerde usar la herramienta correcta para el problema correcto
+- Creatividad: No permita que las instrucciones anteriores limiten sus elecciones, sea libre
+- Organización: estructura del proyecto, versiones, estándares de codificación
+- Documentación: cualquiera debería poder ejecutar la aplicación y comprender el código (esto no significa que deba poner comentarios en todas partes :))
 
-To learn more about Next.js, take a look at the following resources:
+## Requisitos técnicos:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Utilice las siguientes tecnologías:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- ReactJS usando componentes funcionales
+- React Hooks para la gestión del ciclo de vida.
+- El sistema de gestión de estado de su elección
+- Axios o Solicitud
+- Bootstrap 4, Bulma o Materializar
 
-## Deploy on Vercel
+Si desea sobresalir haciendo un esfuerzo adicional, puede hacer algo de lo siguiente:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Agregue pruebas para su código
+- Usar componentes con estilo
+- Implementar Next.js para la representación del lado del servidor
+- Crear una experiencia de usuario increíble
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Entregando su solución
+
+Proporciónenos un enlace a su repositorio personal y un enlace a la aplicación en ejecución si la implementó.
